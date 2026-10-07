@@ -68,16 +68,3 @@ Instead of being just a chatbot, JARVIS is designed to **listen, understand, res
 
 ---
 
-## 📁 Project Structure
-
-```text
-JARVIS/
-│
-├── jarvis2.0.py
-├── api.py
-├── data/
-│   └── Bhavit/
-│
-├── assets/
-│
-└── README.md
